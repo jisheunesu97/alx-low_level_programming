@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc -S maasm=intel $CFILE
