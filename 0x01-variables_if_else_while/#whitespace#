@@ -1,0 +1,4 @@
+2-print_alphabet.c:12: ERROR: space required before the open parenthesis '('
+2-print_alphabet.c:13: WARNING: Statements should start on a tabstop
+total: 2 errors, 1 warnings, 24 lines checked
+main

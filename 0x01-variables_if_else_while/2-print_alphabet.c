@@ -9,8 +9,9 @@ int main(void)
 	/* Declare a variable*/
 	char alphabet = 'a';
 
-	while(alphabet <= 'z') {
-	/* print the value of the variable*/
+	while (alphabet <= 'z')
+	{
+	  /* print the value of the variable*/
 		putchar(alphabet);
 
 	/* increment the variable ('a becomes b')*/
