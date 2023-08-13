@@ -8,14 +8,14 @@
 
 int main(void)
 {
-  /*variable definition*/
-	int a;
-	/*for loop execution*/
-	for (a = '0'; a <= '9'; a++)
-	{
-	 /*display single digit numbers*/
-	 putchar(a);
-	}
+/*variable definition*/
+int a;
+/*for loop execution*/
+for (a = '0'; a <= '9'; a++)
+{
+/*display single digit numbers*/
+putchar(a);
+}
 
 putchar('\n');
 return (0);
