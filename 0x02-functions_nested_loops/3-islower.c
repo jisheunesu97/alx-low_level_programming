@@ -11,5 +11,5 @@ if (c >= 97 && c <= 122)
 {
 return (1);
 }
-return(0);
+return (0);
 }
