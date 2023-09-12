@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /**
-* _stdrup - function that returns a pointer to a newly
+* _strdup - function that returns a pointer to a newly
 * allocated space in memory
 * @str: is char
 *Return: 0 Success
