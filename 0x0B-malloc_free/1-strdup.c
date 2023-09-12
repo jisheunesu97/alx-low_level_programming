@@ -10,7 +10,7 @@
 *
 */
 
-char *_stdrup(char *str)
+char *_strdup(char *str)
 {
 char *mem;
 int j, k = 0;
