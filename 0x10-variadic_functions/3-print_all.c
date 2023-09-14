@@ -47,4 +47,5 @@ continue;
 separator = ", ";
 a++;
 }
+printf("\n");
 }
