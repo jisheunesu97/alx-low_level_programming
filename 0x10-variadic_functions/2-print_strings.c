@@ -33,6 +33,6 @@ printf("%s", string);
 else
 printf("%s%s", separator, string);
 }
-printf("\n");
 va_end(_args);
+printf("\n");
 }
